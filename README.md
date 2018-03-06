@@ -3,6 +3,8 @@ Dizi images gallery by joomla178
 
 ## Description
 
+Visit repository: https://github.com/shionphan/dizi_image_joomla178
+
 This is a upgrade version for Dizi images gallery. Since the original author no longer provide an updated version (https://extensions.joomla.org/extension/dizi-images-gallery/)
 
 This extension does NOT implement the Joomla! Update System. I fixed the bug for Joomla 3.8.5+ based on the version 1.0.3 and added a picture watermarking feature.
